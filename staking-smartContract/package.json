@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "solc": "^0.8.19"
   }
 }
